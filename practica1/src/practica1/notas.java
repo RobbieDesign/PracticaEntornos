@@ -116,7 +116,7 @@ public class notas {
 	 * Metodo para comprobar si el estudiante ha suspendido o aprobado.
 	 */
 
-	public void aprobado() {
+	/*public void aprobado() {
 
 		if (def < 5 && def >= 0) {
 			System.out.println("suspendio");
@@ -127,7 +127,7 @@ public class notas {
 				System.out.println(" error en la notas");
 			}
 		}
-	}
+	}*/
 
 	/**
 	 * Metodo para ejecutar el flujo del programa.
@@ -147,7 +147,7 @@ public class notas {
 
 		fc.Mostrar();
 
-		fc.aprobado();
+		//fc.aprobado();
 
 	}
 
